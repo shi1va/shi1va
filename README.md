@@ -1,6 +1,6 @@
 ![logo](https://github.com/shi1va/shi1va/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Shivani Kumari</h1>
-<h3 align="center">Hello, I'm Shivani Kumari and I am Cloud and DevOps enthusiast. I have keen interest in Python, Cloud Computing and DevOps. I am learning and experimenting with AWS and DevOps tools.</h3>
+<h3 align="center">Hello, I'm Shivani Kumari and I am Cloud and DevOps Engineer. I have keen interest in Python, Cloud Computing and DevOps. I am learning and experimenting with AWS and DevOps tools.</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/69220037/203141922-dc941a18-63f5-4c8a-9013-86ce406f471d.gif">
 

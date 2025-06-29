@@ -1,6 +1,6 @@
 ![logo](https://github.com/shi1va/shi1va/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Shivani Kumari</h1>
-<h3 align="center">Hello, I'm Shivani Kumari and I am Cloud and DevOps Engineer with 2+ years of experience. I have keen interest in Python, Cloud Computing and DevOps. I am learning and experimenting with AWS and DevOps tools.</h3>
+<h3 align="center">Hello, I'm Shivani Kumari and I am Cloud and DevOps Engineer with 2+ years of experience. I have keen interest in AWS, and DevOps. I am learning and experimenting with AWS and DevOps tools.</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/69220037/203141922-dc941a18-63f5-4c8a-9013-86ce406f471d.gif">
 
@@ -8,11 +8,9 @@
 
 - 🔭 I’m currently working on **AWS projects**
 
-- 🌱 I’m currently learning **AWS and DevOps**
+- 🌱 I’m currently learning and exploring  **DevOps**
 
 - 👯 I’m looking to collaborate on **AWS and DevOps projects**
-
-- 📝 I regularly write articles on [https://hashnode.com/@Shivani-Kumari](https://hashnode.com/@Shivani-Kumari)
 
 - 📫 How to reach me **shivani824101@gmail.com**
 

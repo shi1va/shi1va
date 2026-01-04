@@ -114,19 +114,19 @@ src="https://user-images.githubusercontent.com/69220037/203141922-dc941a18-63f5-
 
 ---
 
-## 📊 GitHub Stats
+## 📜 Certifications
+- 🏅 **AWS Certified Solutions Architect – Associate**
+- 🏅 **Oracle Cloud Infrastructure Foundations**
+- 🏅 **Google IT Automation with Python (Coursera)**
+- 🏅 **NPTEL – Object-Oriented Analysis & Design**
 
-<p>
-  <img align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shi1va&layout=compact&theme=tokyonight" />
-</p>
+---
 
-<p>
-  <img align="center"
-    src="https://github-readme-stats.vercel.app/api?username=shi1va&show_icons=true&count_private=true&theme=tokyonight" />
-</p>
+📖 Read more on Medium →  
+**https://medium.com/@shivani.kumari.clouddevopsblog**
 
-<p>
-  <img align="center"
-    src="https://streak-stats.demolab.com/?user=shi1va&theme=tokyonight" />
-</p>
+---
+
+## 📈 GitHub Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shi1va&theme=github-compact)

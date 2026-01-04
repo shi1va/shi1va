@@ -29,14 +29,15 @@ src="https://user-images.githubusercontent.com/69220037/203141922-dc941a18-63f5-
 ---
 
 ## 🌐 Connect with Me
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/shivani-kumari-9894a11aa/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      height="32" width="42" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" />
+  </a>
+  <a href="https://shivani-kumari-portfolio-jubd.b12sites.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge" />
   </a>
   <a href="https://medium.com/@shivani.kumari.clouddevopsblog" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
-      height="32" width="42" />
+    <img src="https://img.shields.io/badge/Medium-Blogs-black?logo=medium&style=for-the-badge" />
   </a>
 </p>
 

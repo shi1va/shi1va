@@ -33,7 +33,7 @@ src="https://user-images.githubusercontent.com/69220037/203141922-dc941a18-63f5-
   <a href="https://linkedin.com/in/shivani-kumari-9894a11aa/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" />
   </a>
-  <a href="https://shivani-kumari-portfolio-jubd.b12sites.com/" target="_blank">
+  <a href="https://shivani-devops-portfolio-ea3jd73.public.builtwithrocket.new" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge" />
   </a>
   <a href="https://medium.com/@shivani.kumari.clouddevopsblog" target="_blank">
@@ -120,11 +120,6 @@ src="https://user-images.githubusercontent.com/69220037/203141922-dc941a18-63f5-
 - 🏅 **Oracle Cloud Infrastructure Foundations**
 - 🏅 **Google IT Automation with Python (Coursera)**
 - 🏅 **NPTEL – Object-Oriented Analysis & Design**
-
----
-
-📖 Read more on Medium →  
-**https://medium.com/@shivani.kumari.clouddevopsblog**
 
 ---
 

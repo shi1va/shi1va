@@ -1,30 +1,132 @@
-![logo](https://github.com/shi1va/shi1va/blob/main/github%20banner.png)
+![banner](https://github.com/shi1va/shi1va/blob/main/github%20banner.png)
+
 <h1 align="center">Hi 👋, I'm Shivani Kumari</h1>
-<h3 align="center">Hello, I'm Shivani Kumari and I'm a Cloud and DevOps Engineer with 2.6+ years of experience. I have keen interest in AWS, and DevOps. I am exploring and experimenting with AWS and DevOps tools.</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/69220037/203141922-dc941a18-63f5-4c8a-9013-86ce406f471d.gif">
+<h3 align="center">
+Cloud & DevOps Engineer | AWS | Kubernetes | OpenShift | CI/CD | GitOps
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shi1va&label=Profile%20views&color=0e75b6&style=flat" alt="shi1va" /> </p>
-
-- 🔭 I’m currently working on **AWS projects**
-
-- 🌱 I’m currently learning and exploring  **DevOps**
-
-- 👯 I’m looking to collaborate on **AWS and DevOps projects**
-
-- 📫 How to reach me **shivani824101@gmail.com**
-
-<h3 align="left">Connect with me-</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shivani-kumari-9894a11aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivani kumari" height="30" width="40" /></a>
-<a href="https://hashnode.com/@shivani-kumari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@shivani-kumari" height="30" width="40" /></a>
+<p align="center">
+Cloud & DevOps Engineer with <b>2.6+ years of experience</b> in building, automating, securing, and operating
+cloud-native infrastructure on AWS and OpenShift platforms.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<img align="right" alt="coding" width="380"
+src="https://user-images.githubusercontent.com/69220037/203141922-dc941a18-63f5-4c8a-9013-86ce406f471d.gif">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shi1va&show_icons=true&locale=en&layout=compact" alt="shi1va" /></p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=shi1va&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shi1va&show_icons=true&locale=en" alt="shi1va" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shi1va&" alt="shi1va" /></p>
+## 🚀 About Me
+- 🔭 Working on **AWS & Cloud Infrastructure projects**
+- 🌱 Learning **DevOps, Kubernetes, CI/CD & Cloud Security**
+- 👯 Open to collaborating on **AWS & DevOps real-world projects**
+- 📫 Reach me at **shivani824101@gmail.com**
+
+---
+
+## 🌐 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/shivani-kumari-9894a11aa/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      height="32" width="42" />
+  </a>
+  <a href="https://medium.com/@shivani.kumari.clouddevopsblog" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
+      height="32" width="42" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Languages & Tools
+
+### ☁️ Cloud & Platforms
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="45"/>
+</p>
+
+**AWS · EC2 · VPC · IAM · S3 · RDS · CloudWatch**  
+**ROSA (Red Hat OpenShift on AWS) · OpenShift 4.x**
+
+---
+
+### 🚀 DevOps & CI/CD
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
+</p>
+
+**Docker · Kubernetes · Argo CD · Jenkins · GitHub Actions**  
+**CI/CD Pipelines · GitOps**
+
+---
+
+### 🏗️ Infrastructure as Code
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="45"/>
+</p>
+
+**Terraform · AWS CloudFormation**
+
+---
+
+### 🔐 Security & Compliance
+**IAM Best Practices · Prisma Cloud · Secrets Management**  
+**Security Remediation · Least Privilege Access · Cloud Security**
+
+---
+
+### 📊 Monitoring & Observability
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="45"/>
+</p>
+
+**Prometheus · Grafana · AWS CloudWatch · Logs & Metrics**
+
+---
+
+### 🧰 Version Control & OS
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
+</p>
+
+**Git · GitHub · Linux (RHEL / Ubuntu) · Bash / Shell Scripting**
+
+---
+
+### 💻 Programming & Databases
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/>
+</p>
+
+**Python (Automation & Scripting) · MySQL**
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shi1va&layout=compact&theme=tokyonight" />
+</p>
+
+<p>
+  <img align="center"
+    src="https://github-readme-stats.vercel.app/api?username=shi1va&show_icons=true&count_private=true&theme=tokyonight" />
+</p>
+
+<p>
+  <img align="center"
+    src="https://streak-stats.demolab.com/?user=shi1va&theme=tokyonight" />
+</p>

@@ -8,7 +8,7 @@ Cloud & DevOps Engineer | AWS | GCP | Kubernetes | OpenShift | CI/CD | GitOps | 
 
 <p align="center">
 Cloud & DevOps Engineer with <b>3+ years of experience</b> in building, automating, securing, and operating
-cloud-native infrastructure on AWS and OpenShift platforms.
+cloud-native infrastructure on AWS, GCP and OpenShift platforms.
 </p>
 
 <img align="right" alt="coding" width="380"

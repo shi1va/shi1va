@@ -3,11 +3,11 @@
 <h1 align="center">Hi 👋, I'm Shivani Kumari</h1>
 
 <h3 align="center">
-Cloud & DevOps Engineer | AWS | Kubernetes | OpenShift | CI/CD | GitOps
+Cloud & DevOps Engineer | AWS | GCP | Kubernetes | OpenShift | CI/CD | GitOps | GKE
 </h3>
 
 <p align="center">
-Cloud & DevOps Engineer with <b>3 years of experience</b> in building, automating, securing, and operating
+Cloud & DevOps Engineer with <b>3+ years of experience</b> in building, automating, securing, and operating
 cloud-native infrastructure on AWS and OpenShift platforms.
 </p>
 
